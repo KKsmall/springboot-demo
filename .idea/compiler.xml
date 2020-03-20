@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="conf" />
+        <module name="consumer" />
+        <module name="database-version-control-flyway" />
+        <module name="database-version-control-liquibase" />
+        <module name="dubbo-xml" />
+        <module name="dynamic-datasource-baomidou-01" />
+        <module name="dynamic-datasource-baomidou-02" />
+        <module name="dynamic-datasource-sharding-jdbc-01" />
+        <module name="dynamic-datasource-sharding-jdbc-02" />
+        <module name="elasticsearch" />
+        <module name="elasticsearch-jest" />
+        <module name="kafaka" />
+        <module name="kafka-batch" />
+        <module name="kafka-batch-consumer" />
+        <module name="kafka-transaction" />
+        <module name="kuaisurumen" />
+        <module name="nacos-conf" />
+        <module name="nacos-conf-auto-refresh" />
+        <module name="nacos-conf-profiles" />
+        <module name="provider" />
+        <module name="rocketmq" />
+        <module name="sentinel-limit" />
+        <module name="session-springsecurity" />
+        <module name="sharding-datasource-01" />
+        <module name="shiro" />
+        <module name="spring-data-redis-with-jedis" />
+        <module name="spring-security-oauth2" />
+        <module name="springmvc" />
+        <module name="springsecurity-demo" />
+        <module name="springsecurity-demo-role" />
+        <module name="springsession-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-xml" target="1.5" />
+      <module name="rpc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api" options="-parameters" />
+      <module name="conf" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="database-version-control-flyway" options="-parameters" />
+      <module name="database-version-control-liquibase" options="-parameters" />
+      <module name="dubbo-xml" options="" />
+      <module name="dynamic-datasource-baomidou-01" options="-parameters" />
+      <module name="dynamic-datasource-baomidou-02" options="-parameters" />
+      <module name="dynamic-datasource-sharding-jdbc-01" options="-parameters" />
+      <module name="dynamic-datasource-sharding-jdbc-02" options="-parameters" />
+      <module name="elasticsearch" options="-parameters" />
+      <module name="elasticsearch-jest" options="-parameters" />
+      <module name="kafaka" options="-parameters" />
+      <module name="kafka-batch" options="-parameters" />
+      <module name="kafka-batch-consumer" options="-parameters" />
+      <module name="kafka-transaction" options="-parameters" />
+      <module name="kuaisurumen" options="-parameters" />
+      <module name="nacos-conf" options="-parameters" />
+      <module name="nacos-conf-auto-refresh" options="-parameters" />
+      <module name="nacos-conf-profiles" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="rocketmq" options="-parameters" />
+      <module name="rpc" options="-parameters" />
+      <module name="sentinel-limit" options="-parameters" />
+      <module name="session-springsecurity" options="-parameters" />
+      <module name="sharding-datasource-01" options="-parameters" />
+      <module name="shiro" options="-parameters" />
+      <module name="spring-data-redis-with-jedis" options="-parameters" />
+      <module name="spring-security-oauth2" options="" />
+      <module name="springmvc" options="-parameters" />
+      <module name="springsecurity-demo" options="-parameters" />
+      <module name="springsecurity-demo-role" options="-parameters" />
+      <module name="springsession-redis" options="-parameters" />
+    </option>
+  </component>
+</project>

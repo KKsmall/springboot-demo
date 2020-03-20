@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/springsession-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/session-springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-xml/api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-xml/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-xml/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-redis-with-jedis/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-jest/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-datasource-baomidou-01/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-datasource-baomidou-02/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-datasource-sharding-jdbc-01/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-datasource-sharding-jdbc-02/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-datasource-01/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity-demo-role/pom.xml" />
+        <option value="$PROJECT_DIR$/database-version-control-flyway/pom.xml" />
+        <option value="$PROJECT_DIR$/database-version-control-liquibase/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/kafaka/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-batch-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/conf/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-conf/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-conf-profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-conf-auto-refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel-limit/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dubbo-xml/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
